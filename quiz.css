@@ -1,0 +1,31 @@
+.border-this {
+	border: solid 2px;
+	width: fill;
+	margin: 5px;
+	padding: 2px;
+	height: 225px;
+	max-height: 225px;
+}
+
+.selected {
+	background-color: #0DA9FF;
+	border-width: 7px;
+}
+
+.make {
+	font-weight: bold;
+	font-size: 20px
+}
+
+.model {
+
+}
+
+.year {
+
+}
+
+.price {
+	font-style: italic;
+}
+
