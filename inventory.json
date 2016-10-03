@@ -1,0 +1,68 @@
+
+{
+  "cars": [
+    {
+       "make": "Nissan",
+       "model": "Rogue",
+       "year": "2006",
+       "price": "8999",
+       "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+    	"make": "Hummer",
+    	"model": "H2",
+    	"year": "2005",
+    	"price": "Too Much",
+    	"description": "For jerks, big bulky and guzzles gas, has only 2000 miles on it due to the previous owner seeing the major mistake he made after purchasing."
+    },
+    {
+    	"make": "Honda",
+    	"model": "Civic",
+    	"year": "2008",
+    	"price": "4500",
+    	"description": "Good condition, 100k miles but will last for another 100k, runs smoothly."
+    },
+    {
+      "make": "Subaru",
+      "model": "Doobaroo",
+      "year": "2015",
+      "price": "20000",
+      "description": "Dogs drive this car very well, you'll think it's funny."
+    },
+    {
+      "make": "Acura",
+      "model": "MDX",
+      "year": "2010",
+      "price": "20998",
+      "description": "Power Liftgate/DeckLid, 4WD/AWD, Leather Seats, Satellite Radio Ready, Rear View Camera ,3rd Rear Seat"
+    },
+    {
+      "make": "BMW",
+      "model": "335 is",
+      "year": "2012",
+      "price": "38024",
+      "description": "Power everything"
+    },
+    {
+      "make": "",
+      "model": "",
+      "year": "",
+      "price": "",
+      "description": ""
+    },
+    {
+      "make": "",
+      "model": "",
+      "year": "",
+      "price": "",
+      "description": ""
+    },
+    {
+      "make": "",
+      "model": "",
+      "year": "",
+      "price": "",
+      "description": ""
+    }
+  ]
+}
